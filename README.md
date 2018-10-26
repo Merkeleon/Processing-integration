@@ -1,4 +1,4 @@
-# Coinspaid integration for PHP
+# Crypto processing integration for PHP
 
 ## Installation
 First, require the package using Composer:
