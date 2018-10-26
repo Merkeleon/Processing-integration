@@ -1,0 +1,24 @@
+{
+  "name": "merkeleon/processing-integration",
+  "description": "Cryptoprocessing integrations for php",
+  "keywords": [
+    "merkeleon"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "androzd",
+      "email": "andrey@drozd.by",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "ext-bcmath": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Merkeleon\\Processing\\": "src/"
+    }
+  }
+}
